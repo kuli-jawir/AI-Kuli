@@ -35,7 +35,7 @@ const onUserChangedText = (event) => {
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>Aldy Tools AI 😉</h1>
+            <h1>Jawir AI</h1>
           </div>
           <div className="header-subtitle">
             <h2>Help you to use Artificial Intelligence</h2>
@@ -48,7 +48,7 @@ const onUserChangedText = (event) => {
       <div className="prompt-buttons">
       <a className="generate-button" onClick={callGenerateEndpoint}>
         <div className="generate">
-          <p>Generate</p>
+          <p >Generate</p>
         </div>
       </a>
   </div>
@@ -60,7 +60,7 @@ const onUserChangedText = (event) => {
         >
           <div className="badge">
             <Image src={buildspaceLogo} alt="buildspace logo" />
-            <p>build by Aldy Argarena</p>
+            <p>build by Jawir</p>
           </div>
         </a>
       </div>
