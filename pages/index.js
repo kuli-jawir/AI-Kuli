@@ -35,10 +35,10 @@ const onUserChangedText = (event) => {
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>Jawir AI</h1>
+            <h1>Kuli AI</h1>
           </div>
           <div className="header-subtitle">
-            <h2>Help you to use Artificial Intelligence</h2>
+            <h2>With Artificial Intelligence Can Change World :)</h2>
           </div>
         </div>
       </div>
